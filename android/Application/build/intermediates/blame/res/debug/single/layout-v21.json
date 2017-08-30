@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/bogachov/.android/build-cache/ecfd5e2388335f4f27936f7aae7449be9a33d0de/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/bogachov/.android/build-cache/ecfd5e2388335f4f27936f7aae7449be9a33d0de/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/bogachov/.android/build-cache/ecfd5e2388335f4f27936f7aae7449be9a33d0de/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/bogachov/.android/build-cache/ecfd5e2388335f4f27936f7aae7449be9a33d0de/output/res/layout-v21/notification_action.xml"
+    }
+]

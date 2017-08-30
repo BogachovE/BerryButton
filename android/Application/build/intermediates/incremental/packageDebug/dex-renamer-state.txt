@@ -1,0 +1,7 @@
+#Sun May 07 13:00:41 EEST 2017
+base.0=/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8ff529d9f7aecd0213147843da820f87a979eff
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_daa2363c9c09aff7ae33ba8d48aa356050fdcd38/classes.dex
+base.1=/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_daa2363c9c09aff7ae33ba8d48aa356050fdcd38
+file.0=/Users/bogachov/Desktop/work/berrybutton/android/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8ff529d9f7aecd0213147843da820f87a979eff/classes.dex
